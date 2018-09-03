@@ -1,2 +1,2 @@
-Git is useful and simple to use.
+Git is useful and simple to use!
 GitHub uses git.

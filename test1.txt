@@ -1,2 +1,1 @@
-Git is useful and simple to use.
-GitHub uses git.
+Git is useful & simple to use.
